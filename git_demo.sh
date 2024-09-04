@@ -4,7 +4,7 @@
 # BEGIN SETUP
 #
 if [ -e git_demo ]; then
-    echo "directory git_demo already exists! Pass --rm to remove."
+    echo "directory git_demo already exists!"
     exit 1;
 fi
 
